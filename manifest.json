@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "cburnette.tides",
+  "name": "Tide clock",
+  "version": "1.0.0",
+  "author": "Chad Burnette",
+  "license": "MIT",
+  "description": "A tide clock that pops up in the center of the screen, with the next highs and lows for your location",
+  "kinds": [
+    "overlay"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "overlay": "Tides.qml"
+  }
+}
